@@ -21,7 +21,8 @@
 // THE SOFTWARE.
 
 #import "AFOAuth1Client.h"
-#import "AFHTTPRequestOperation.h"
+//#import "AFHTTPRequestOperation.h"
+#import <RestKit/AFHTTPRequestOperation.h>
 
 #import <CommonCrypto/CommonHMAC.h>
 
